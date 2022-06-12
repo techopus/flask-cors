@@ -6,5 +6,5 @@
 
    self
    configuration
-   api
+   
 
